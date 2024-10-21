@@ -19,5 +19,8 @@ public class Main {
 
         // that is why error
         // BoxWeight box2 = new Box(2, 3, 4);
+
+
+        BoxPrice box2 = new BoxPrice(5.0, 5.0, 6.0);
     }
 }
